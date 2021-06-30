@@ -173,25 +173,25 @@ header.masthead h2 {
     }
 }
 
-.education {
+.experience {
     margin-bottom: -15px;
 }
 
-.education .location {
+.experience .location {
     font-size: 1.6rem;
     font-weight: 500;
 }
 
-.education .credential-date {
+.experience .credential-date {
     font-size: 1rem;
     font-weight: 300;
 }
 
-.education .credential-description {
+.experience .credential-description {
     max-width: 700px;
 }
 
-.education .credential-divider {
+.experience .credential-divider {
     border-color: rgba(0, 0, 0, 0.3);
 }
 
