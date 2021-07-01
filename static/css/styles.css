@@ -150,18 +150,18 @@ header.masthead h2 {
 }
 
 .portfolio-modal .portfolio-modal-dialog-1 {
-    padding: 3rem 1rem;
+    padding: 1em 2em 2em;
     min-height: calc(100vh - 2rem);
-    margin: 1rem calc(1rem - 8px);
+    margin: 10px;
     position: relative;
     z-index: 2;
     -webkit-box-shadow: 0 0 3rem 1rem rgba(0, 0, 0, 0.5);
     box-shadow: 0 0 3rem 1rem rgba(0, 0, 0, 0.5);
-    background-image: url('https://scx1.b-cdn.net/csz/news/800/2017/theoreticala.jpg');
+    background-image: url('https://www.cdc.gov/disasters/earthquakes/images/header_images/earthquakes_homepage.jpg');
     background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-size: cover;
-    color: #FFFFFF;
+    background-size: 90% 60%;
+    background-position: bottom;
+    
 }
 
 .portfolio-modal .portfolio-modal-dialog .close-button {
